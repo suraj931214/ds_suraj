@@ -55,3 +55,6 @@ pandas
 matplotlib
 seaborn
 datetime
+
+pip install pandas matplotlib seaborn
+
